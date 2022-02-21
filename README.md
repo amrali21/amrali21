@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amr
-- 👀 I’m interested in all things coding
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on machine/ deep learning projects
+- 💞️ I’m looking to collaborate on machine/ deep learning / software engineering projects
 - 📫 reach me at linked-in /amr-moneer-533a84157
 
 <!---
