@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on machine/ deep learning / software engineering projects
+- 📫 View my portfolio [here](http://amrmoneer21.me) 
 - 📫 reach me at linked-in [here](https://www.linkedin.com/in/amr-moneer-533a84157/)
 <!---
 amrali21/amrali21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
